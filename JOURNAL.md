@@ -5,10 +5,14 @@
 
 I created the overall plan for this project and started on the base. The top and bottom sections are independent and slide together so the electronics can be easily accessed.
 
+![Base design](images/_base.png)
+
 ## October 4, 2026 — Added Servo 1 Holder
 **Time: 36 minutes**
 
 I added the first servo and its holder to the base. I found the 3D models for the servos and designed holders around their measurements. I also cut holes for the wires and aligned everything.
+
+![Arm rotating servo mount](images/armrotatingservomount.png)
 
 ## October 5, 2026 — Added Revolving Plate and Shoulder Servo
 **Time: 2 hours**
@@ -16,6 +20,8 @@ I added the first servo and its holder to the base. I found the 3D models for th
 I added the revolving plate, allowing the arm to rotate around the base.
 
 I also added the shoulder joint. This joint needs to support the weight of the rest of the arm while also providing one of the arm's largest ranges of motion.
+
+![Shoulder servo](images/shoulder%20servo.png)
 
 ## October 6, 2026 — Added More Arm Segments and Servos
 **Time: 6 hours**
@@ -28,16 +34,20 @@ This allows the arm to reach outward and provides multiple degrees of freedom, i
 
 At this stage, the main arm used four servos.
 
+![Arm segments added](images/armsadded.png)
+
 ## October 7, 2026 — Claw Mechanism and Claw Rotation
 **Time: 7 hours 54 minutes**
 
-I added two more servos: one to rotate the claw 360 degrees and another to actuate the claw.
+I added two more servos, one to rotate the claw 360 degrees and another to actuate the claw.
 
 I created another arm section along with a mounting holder and reinforcements for the claw rotation servo.
 
 I mounted the servo, connected a rotating plate to the end, and created the foundation for the claw opening and closing mechanism.
 
 At this point, the claw still needed to be mounted and fully created.
+
+![Claw rotation servo and mount](images/clawrotatingseroandmount.png)
 
 ## October 9, 2026 — Built Claw
 **Time: 9 hours**
@@ -47,6 +57,14 @@ I created a housing for the claw servo.
 I then designed the claw so that the servo rotates one claw arm. A gear attached to that arm drives another gear attached to the opposite claw arm.
 
 This causes both sides of the claw to move together from a single servo and allows the claw to open wider while keeping the mechanism synchronized.
+
+![Claw mechanism](images/_claw.png)
+
+## Final Assembly
+
+The completed robotic arm assembly includes the rotating base, shoulder and elbow joints, wrist movement, claw rotation, and the custom claw mechanism.
+
+![Final robotic arm](images/finishedfull.png)
 
 ## Total Logged Time
 
