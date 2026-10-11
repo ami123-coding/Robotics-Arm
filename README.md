@@ -33,6 +33,14 @@ One of the main custom mechanisms is the claw. Instead of using a separate servo
 The complete robotic arm assembly was designed in Onshape.
 
 The exported STEP assembly and other CAD files can be found in the `CAD` folder.
+## Source CAD
+
+The editable CAD for this project was created in Onshape.
+
+Onshape document:
+https://cad.onshape.com/documents/de415dac68ecb265a4819de3/w/5fd4f9b19c95bc708995e2fe/e/5eca2ddf948742bb4931fbad?renderMode=0&uiState=6acb02013a2081acce0362ae
+
+
 
 ## Electronics
 
