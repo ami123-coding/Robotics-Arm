@@ -1,1 +1,21 @@
-
+Part,Quantity,Unit Price,Total Price,Link,Purpose
+Waveshare ST3215 Servo,3,21.99,65.97,https://www.waveshare.com/product/st3215-servo.htm,Base shoulder and elbow joints
+Waveshare SC15 Servo,2,15.99,31.98,https://www.waveshare.com/sc15-servo.htm,Wrist movement
+Waveshare SC09 Servo,1,9.99,9.99,https://www.waveshare.com/product/robotics/sc09-servo.htm,Claw actuation
+Waveshare Servo Driver with ESP32,1,24.99,24.99,https://www.waveshare.com/servo-driver-with-esp32.htm,Main controller and servo bus interface
+2S 7.4V 5000mAh LiPo Battery XT60,1,26.99,26.99,https://www.amazon.com/s?k=2S+7.4V+5000mAh+LiPo+XT60,Main power source
+2S 3S LiPo Balance Charger,1,19.99,19.99,https://www.amazon.com/s?k=2S+3S+LiPo+balance+charger,Battery charging
+Metric M3 M4 M5 M6 Hardware Kit,1,19.99,19.99,https://www.amazon.com/s?k=M3+M4+M5+M6+metric+hardware+kit,Fasteners for printed structure
+608-2RS Bearing Pack,1,8.99,8.99,https://www.amazon.com/s?k=608-2RS+bearings+8x22x7,Joint support
+8mm x 300mm Steel Shaft,1,6.99,6.99,https://www.amazon.com/s?k=8mm+300mm+steel+shaft,Joint shafts
+18AWG Silicone Wire Pack,1,11.99,11.99,https://www.amazon.com/s?k=18AWG+silicone+wire+red+black,Power wiring
+XT60 Connector Pack,1,5.99,5.99,https://www.amazon.com/s?k=XT60+connector+pack,Battery and power connections
+Inline Blade Fuse Holder,1,5.99,5.99,https://www.amazon.com/s?k=inline+blade+fuse+holder,Electrical protection
+15A Blade Fuse Pack,1,4.99,4.99,https://www.amazon.com/s?k=15A+blade+fuse+pack,Main electrical fuse
+Heat Shrink Tubing Kit,1,5.99,5.99,https://www.amazon.com/s?k=heat+shrink+tubing+kit,Wire insulation
+M3 Heat Set Inserts,1,6.99,6.99,https://www.amazon.com/s?k=M3+heat+set+inserts+3D+printing,Threaded mounting points in printed parts
+Emergency Stop Switch,1,12.99,12.99,https://www.amazon.com/s?k=emergency+stop+switch+12V,Emergency power cutoff
+20A DC Main Power Switch,1,8.99,8.99,https://www.amazon.com/s?k=20A+DC+rocker+switch,Main arm power switch
+Servo Bus Cable Pack,1,9.99,9.99,https://www.amazon.com/s?k=Waveshare+bus+servo+cable,Daisy chain servo communication
+Power Distribution Block,1,8.99,8.99,https://www.amazon.com/s?k=DC+power+distribution+block,Power distribution
+Joystick Module,1,11.99,11.99,https://www.amazon.com/s?k=joystick+module+Arduino,Manual arm control
