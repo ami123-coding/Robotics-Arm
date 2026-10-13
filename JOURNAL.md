@@ -7,6 +7,7 @@ total_time: "27h 48m"
 ---
 
 # October 4, 2026: Ctreated plan and base
+<!-- fabricate:entry 130 -->
 
 I created the overall plan for this project and started on the bases, which the top and bottom are independent and slide in together so the electronics are easily accessibleI started off with modeling the whole system and determining where I would like to place my electronics. In order to keep my base easy to access in case I need to make changes later, I divided it into two distinct cylindrical segments.
 
@@ -22,7 +23,8 @@ At the end of this session, I got the two-part base completed and determined the
 
 **Total time spent: 48m**
 
-# October 4, 2026: added servo1. holder
+# October 4, 2026 (entry 2): added servo1. holder
+<!-- fabricate:entry 131 -->
 
 just added the servo for and the holder on the bases, found the 3d models for the servos and made holders for those measurements, cut holes for wires and aligned everything perfectly. I moved on to installing the first servo on the base. Instead of making an assumption about the dimensions of the servo and making the holder accordingly, I found the 3D model of the servo prior to designing the holder.
 
@@ -37,6 +39,7 @@ I spent some time aligning the servo output with the center of the base since th
 **Total time spent: 36m**
 
 # October 5, 2026: added revolving and shoulder servo and revolving plate
+<!-- fabricate:entry 150 -->
 
 I added the revolving plate allowing the arm to move in a circle and also added the shoulder joint that will 1. hold the weight of the whole arm and 2. provide the arm with the greatest axis of motion,The rotating plate was installed to enable the arm to rotate around the base, and the shoulder joint was also added. The reason why the shoulder was so important was due to its necessity to support almost all the weight of the arm and provide one of the broadest range of motions.
 
@@ -56,6 +59,7 @@ There was also enough space left for movement, wires, and airflow, which consume
 **Total time spent: 2h 30m**
 
 # October 6, 2026: added more arm segments and servos
+<!-- fabricate:entry 170 -->
 
 I basically finished up the arm segments and servo placements for the mobility of the arm itself. It took way longer than expected. I custom-made 3 more pairs of arm segments with spacing for the respective servos and attached the servos, allowing the arm to reach out far and have 3 degrees of motion, as well as a rotating base, for a current total of 4 servos.This is probably one of the most tedious but still fun steps in the design process since I had to manually design pretty much all of the side pieces of the main arm linkages, which do not have rectangular shape. I wanted to make the arm as light as possible by using custom-made shapes and huge cutouts in order to minimize the filament usage and keep the weight low, but still leave enough material in the mounting locations.
 
@@ -74,6 +78,7 @@ At this session, I mounted and positioned all of the main arm servos. I checked 
 **Total time spent: 6h**
 
 # October 7, 2026: claw mech basic and claw roating mech
+<!-- fabricate:entry 193 -->
 
 added tow more servos, one to rotate the claw 360 and one to actually move the claw, created a new set of arm, as well as a placment holder and reinforcements for the claw rotating servo and mounted it,Probably the most challenging piece to design was the claw. Because the master Onshape file became so large as to cause my computer to slow down, I had to save the claw in its own separate file and then import the assembled version back into the master file.
 
@@ -90,6 +95,7 @@ In the end, the two sides of the claw were joined into one bigger claw, addition
 **Total time spent: 7h 54m**
 
 # October 9, 2026: Built claw
+<!-- fabricate:entry 311 -->
 
 Probably the most challenging piece to design was the claw. Because the master Onshape file became so large as to cause my computer to slow down, I had to save the claw in its own separate file and then import the assembled version back into the master file.
 
@@ -107,8 +113,9 @@ In the end, the two sides of the claw were joined into one bigger claw, addition
 **Total time spent: 9h**
 
 # October 10, 2026: Finished!
+<!-- fabricate:entry 333 -->
 
-This session was for cleaning up and tweaking the robot arm CAD as the last step to finish. During my checks and improvements, I added fillets to many parts that had sharp edges in order to improve their appearance and printing process.
+This session is devoted to cleaning up and tweaking the robot arm CAD as the last step to finish. During my checks and improvements, I added fillets to many parts that had sharp edges in order to improve their appearance and printing process.
 
 However, while checking the assembly once more time, I noticed that there was not enough space for the wires in most of the servo casings and arm parts. Therefore, I had to do a slight redesign to mostly all if not many parts that were already ready and revise them.
 
